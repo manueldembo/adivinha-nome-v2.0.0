@@ -1,0 +1,33 @@
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\bin\Debug\adivinha-nome.exe.config
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\bin\Debug\adivinha-nome.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\bin\Debug\adivinha-nome.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\obj\Debug\adivinha_nome.Properties.Resources.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\obj\Debug\adivinha-nome.csproj.GenerateResource.Cache
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\obj\Debug\adivinha-nome.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\obj\Debug\adivinha-nome.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\obj\Debug\adivinha_nome.frmMenu.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\obj\Debug\adivinha_nome.frmJogo.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\obj\Debug\adivinha_nome.frmPontuacao.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome\adivinha-nome\obj\Debug\adivinha-nome.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\bin\Debug\adivinha-nome.exe.config
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha-nome.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha-nome.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\bin\Debug\adivinha-nome.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\bin\Debug\adivinha-nome.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha-nome.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha_nome.frmMenu.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha_nome.frmJogo.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha_nome.frmPontuacao.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha_nome.Properties.Resources.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha-nome.csproj.GenerateResource.Cache
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\bin\Debug\adivinha-nome.exe.config
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha-nome.exe
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha-nome.pdb
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\bin\Debug\adivinha-nome.exe
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\bin\Debug\adivinha-nome.pdb
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha-nome.csprojResolveAssemblyReference.cache
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha_nome.frmMenu.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha_nome.frmJogo.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha_nome.frmPontuacao.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha_nome.Properties.Resources.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\adivinha-nome-2\adivinha-nome\obj\Debug\adivinha-nome.csproj.GenerateResource.Cache
